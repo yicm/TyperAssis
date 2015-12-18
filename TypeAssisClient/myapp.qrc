@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background/background.jpg</file>
+        <file>images/background/login.jpg</file>
+        <file>images/icon/proicon.png</file>
+        <file>images/tool/biaoqing_004.jpg</file>
+        <file>images/tool/correct_rate.jpg</file>
+        <file>images/tool/correct_rate1.jpg</file>
+        <file>images/tool/error.png</file>
+        <file>images/tool/help.png</file>
+        <file>images/tool/mucic.jpg</file>
+        <file>images/tool/right.png</file>
+        <file>images/tool/set.png</file>
+        <file>images/tool/speed.jpg</file>
+        <file>images/tool/speed1.jpg</file>
+        <file>files/TEST.txt</file>
+    </qresource>
+</RCC>
