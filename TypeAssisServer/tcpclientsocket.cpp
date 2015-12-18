@@ -22,7 +22,7 @@ void TcpClientSocket::dataReceived()
         QString msg = buf;
 
         //向服务层发送接收到的数据
-        emit updateClients(msg,length,this->peerPort(),this->peerAddress());                                 //通知服务器向聊天室内的所有成员广播信息
+        emit updateClients(msg,length,this->peerPort(),this->peerAddress());
     }
 }
 
